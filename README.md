@@ -1,5 +1,6 @@
 # multi-scale-style-transfer
-ADL4CV Project: Multi-Scale Style Transfer
+
+Multi-scale style transfer with a pyramid of fully convolutional GANs inspired from [SinGAN: Learning a Generative Model from a Single Natural Image (ICCV 2019)](https://arxiv.org/abs/1905.01164) 
 
 ## Repository Structure
 
